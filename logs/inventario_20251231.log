@@ -1,0 +1,46 @@
+2025-12-31 21:40:58,109 - __main__ - INFO - Configuración cargada
+2025-12-31 21:41:00,348 - __main__ - ERROR - Error creando BD: 2003: Can't connect to MySQL server on 'localhost:3306' (Errno 10061: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión)
+2025-12-31 21:41:00,349 - __main__ - ERROR - Error crítico: 2003: Can't connect to MySQL server on 'localhost:3306' (Errno 10061: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión)
+2025-12-31 21:41:44,144 - __main__ - INFO - Configuración cargada
+2025-12-31 21:41:44,509 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-12-31 21:41:44,536 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-12-31 21:41:44,547 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-12-31 21:41:44,560 - __main__ - ERROR - Error creando BD: 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+2025-12-31 21:41:44,576 - __main__ - ERROR - Error crítico: 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+2025-12-31 21:41:57,839 - __main__ - INFO - Configuración cargada
+2025-12-31 21:41:58,037 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-12-31 21:41:58,038 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-12-31 21:41:58,041 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-12-31 21:41:58,042 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-12-31 21:41:58,043 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-12-31 21:41:58,043 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-12-31 21:41:58,050 - __main__ - ERROR - Error creando BD: 1045 (28000): Access denied for user '3055847'@'localhost' (using password: NO)
+2025-12-31 21:41:58,050 - __main__ - ERROR - Error crítico: 1045 (28000): Access denied for user '3055847'@'localhost' (using password: NO)
+2025-12-31 21:42:38,230 - __main__ - INFO - Configuración cargada
+2025-12-31 21:42:38,478 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-12-31 21:42:38,745 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-12-31 21:42:38,748 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-12-31 21:42:38,749 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-12-31 21:42:38,749 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-12-31 21:42:38,750 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-12-31 21:42:38,756 - __main__ - ERROR - Error creando BD: 1045 (28000): Access denied for user '3055847'@'localhost' (using password: NO)
+2025-12-31 21:42:38,756 - __main__ - ERROR - Error crítico: 1045 (28000): Access denied for user '3055847'@'localhost' (using password: NO)
+2025-12-31 21:43:40,688 - __main__ - INFO - Configuración cargada
+2025-12-31 21:43:40,881 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-12-31 21:43:40,882 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-12-31 21:43:40,885 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-12-31 21:43:40,886 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-12-31 21:43:40,886 - mysql.connector - INFO - plugin_name: caching_sha2_password
+2025-12-31 21:43:40,887 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-12-31 21:43:40,893 - __main__ - ERROR - Error creando BD: 1045 (28000): Access denied for user '3055847'@'localhost' (using password: NO)
+2025-12-31 21:43:40,894 - __main__ - ERROR - Error crítico: 1045 (28000): Access denied for user '3055847'@'localhost' (using password: NO)
+2025-12-31 21:44:09,961 - __main__ - INFO - Configuración cargada
+2025-12-31 21:44:10,155 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-12-31 21:44:10,156 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-12-31 21:44:10,159 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-12-31 21:44:10,173 - __main__ - INFO - BD 'sis_inventario_db' OK
+2025-12-31 21:44:10,791 - __main__ - INFO - Pool OK
+2025-12-31 21:44:10,843 - __main__ - INFO - Tablas OK
+2025-12-31 21:44:10,846 - __main__ - INFO - Configuración cargada
+2025-12-31 21:44:13,291 - __main__ - INFO - App iniciada V7.0
+2025-12-31 21:45:17,026 - __main__ - INFO - Aplicación cerrada correctamente

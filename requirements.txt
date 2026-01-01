@@ -1,0 +1,28 @@
+# SISTEMA DE INVENTARIO - DEPENDENCIAS DE PYTHON
+# Instalar con: pip install -r requirements.txt
+
+# Interfaz gráfica
+customtkinter>=5.0.0
+
+# Base de datos MySQL
+mysql-connector-python>=8.0.0
+
+# Procesamiento de datos
+pandas>=1.5.0
+
+# Manejo de archivos Excel
+openpyxl>=3.0.0
+
+# Librería estándar de Python (no requieren instalación):
+# - json
+# - logging
+# - os
+# - sys
+# - threading
+# - time
+# - contextlib
+# - datetime
+# - pathlib
+# - tkinter
+# - typing
+# - subprocess

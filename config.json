@@ -1,0 +1,18 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "3055847",
+        "database": "sis_inventario_db",
+        "pool_size": 5,
+        "pool_name": "inventario_pool"
+    },
+    "app": {
+        "auto_backup": true,
+        "backup_interval_hours": 24,
+        "max_results_display": 50,
+        "enable_audit_log": true,
+        "sync_interval_seconds": 40
+    }
+}
