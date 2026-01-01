@@ -383,10 +383,10 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👨‍💻 Autor
 
-**Sistema desarrollado para Guayas Tec**
+**Sistema desarrollado Jose Mejia**
 
-- 📧 Email: contacto@ejemplo.com
-- 🌐 Website: www.ejemplo.com
+- 📧 Email: jose29di@gamil.com
+- 🌐 Website: www.technologistcode.com
 
 ---
 
